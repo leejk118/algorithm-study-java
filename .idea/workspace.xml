@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5df6bc81-ae07-456d-b4bb-c75040f3b0d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study-java/Algo2022/day0926/leetcode_165/leetcode_165_jklee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study-java/Algo2022/day0926/leetcode_225/MyStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study-java/Algo2022/day0926/leetcode_225/leetcode_225_jklee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study-java/Algo2022/day0926/leetcode_231/leetcode_231_jklee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study-java/Algo2022/day0926/leetcode_263/leetcode_263_jklee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algo2022/day0926/leetcode_165/leetcode_165_jklee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/year2022/day0926/leetcode_165/leetcode_165_jklee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algo2022/day0926/leetcode_225/leetcode_225_jklee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/year2022/day0926/leetcode_225/leetcode_225_jklee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algo2022/day0926/leetcode_231/leetcode_231_jklee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/year2022/day0926/leetcode_231/leetcode_231_jklee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algo2022/day0926/leetcode_263/leetcode_263_jklee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/year2022/day0926/leetcode_263/leetcode_263_jklee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year2022/day0926/leetcode_162/leetcode_162_jklee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year2022/day0926/leetcode_78/leetcode_78_jklee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_263/leetcode_263_jklee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -44,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_231/leetcode_231_jklee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -53,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_225/leetcode_225_jklee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="578">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#171#172#0" expanded="true" />
@@ -71,16 +58,30 @@
         <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_165/leetcode_165_jklee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_162/leetcode_162_jklee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_78/leetcode_78_jklee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="340">
+              <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,14 +107,16 @@
         <option value="$PROJECT_DIR$/src/Algo2022/day0926/leetcode_165/leetcode_165_jklee.java" />
         <option value="$PROJECT_DIR$/src/year2022/day0926/leetcode_165/leetcode_165_jklee.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/year2022/day0926/leetcode_162/leetcode_162_jklee.java" />
+        <option value="$PROJECT_DIR$/src/year2022/day0926/leetcode_78/leetcode_78_jklee.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1518" />
-    <option name="y" value="185" />
-    <option name="width" value="1440" />
-    <option name="height" value="774" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -155,6 +158,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="year2022" type="462c0819:PsiDirectoryNode" />
               <item name="day0926" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_78" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-study-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-study-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="year2022" type="462c0819:PsiDirectoryNode" />
+              <item name="day0926" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_263" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -182,7 +193,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.leetcode_165_jklee">
+  <component name="RunManager" selected="Application.leetcode_78_jklee">
+    <configuration name="leetcode_162_jklee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year2022.day0926.leetcode_162.leetcode_162_jklee" />
+      <module name="algorithm-study-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="year2022.day0926.leetcode_162.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leetcode_165_jklee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="year2022.day0926.leetcode_165.leetcode_165_jklee" />
       <module name="algorithm-study-java" />
@@ -222,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode_263_jklee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year2022.day0926.leetcode_263.leetcode_263_jklee" />
+    <configuration name="leetcode_78_jklee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year2022.day0926.leetcode_78.leetcode_78_jklee" />
       <module name="algorithm-study-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="year2022.day0926.leetcode_263.*" />
+          <option name="PATTERN" value="year2022.day0926.leetcode_78.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,10 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode_78_jklee" />
+        <item itemvalue="Application.leetcode_162_jklee" />
         <item itemvalue="Application.leetcode_165_jklee" />
         <item itemvalue="Application.leetcode_225_jklee" />
         <item itemvalue="Application.leetcode_231_jklee" />
-        <item itemvalue="Application.leetcode_263_jklee" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +280,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664801428863</updated>
     </task>
+    <task id="LOCAL-00001" summary=".gitignore 적용, 패키지명 변경">
+      <created>1664802854174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664802854175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -273,10 +306,10 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.43654266" />
+      <window_info anchor="bottom" id="Terminal" weight="0.43654266" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32822758" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -291,6 +324,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".gitignore 적용, 패키지명 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore 적용, 패키지명 변경" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/algo2022/D_0926/D_1003/dd.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -302,21 +339,21 @@
     <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_263/leetcode_263_jklee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_231/leetcode_231_jklee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_225/leetcode_225_jklee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#171#172#0" expanded="true" />
@@ -329,17 +366,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_165/leetcode_165_jklee.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="102">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_165/leetcode_165_jklee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_162/leetcode_162_jklee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2022/day0926/leetcode_78/leetcode_78_jklee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
