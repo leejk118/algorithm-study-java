@@ -1,4 +1,4 @@
-package Algo2022.day0926.leetcode_225;
+package year2022.day0926.leetcode_225;
 
 import java.util.ArrayList;
 import java.util.List;

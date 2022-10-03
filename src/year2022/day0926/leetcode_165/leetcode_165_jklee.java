@@ -1,4 +1,4 @@
-package Algo2022.day0926.leetcode_165;
+package year2022.day0926.leetcode_165;
 
 public class leetcode_165_jklee {
     public int compareVersion(String version1, String version2) {
