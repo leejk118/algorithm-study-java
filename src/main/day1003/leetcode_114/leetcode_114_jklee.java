@@ -1,6 +1,6 @@
-package year2022.day1003.leetcode_114;
+package main.day1003.leetcode_114;
 
-import year2022.TreeNode;
+import main.util.TreeNode;
 
 public class leetcode_114_jklee {
     public void flatten(TreeNode root) {

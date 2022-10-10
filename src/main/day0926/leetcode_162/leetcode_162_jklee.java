@@ -1,4 +1,4 @@
-package year2022.day0926.leetcode_162;
+package main.day0926.leetcode_162;
 
 public class leetcode_162_jklee {
     public int findPeakElement(int[] nums) {

@@ -1,4 +1,4 @@
-package year2022.day0926.leetcode_231;
+package main.day0926.leetcode_231;
 
 public class leetcode_231_jklee {
     public boolean isPowerOfTwo(int n) {

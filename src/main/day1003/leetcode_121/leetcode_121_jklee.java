@@ -1,4 +1,4 @@
-package year2022.day1003.leetcode_121;
+package main.day1003.leetcode_121;
 
 public class leetcode_121_jklee {
     public int maxProfit(int[] prices) {

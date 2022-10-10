@@ -1,4 +1,4 @@
-package year2022.day0926.leetcode_263;
+package main.day0926.leetcode_263;
 
 public class leetcode_263_jklee {
     private final int[] PRIME_NUMBERS = {2, 3, 5};

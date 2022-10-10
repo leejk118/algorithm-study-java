@@ -1,6 +1,6 @@
-package year2022.day1003.leetcode_199;
+package main.day1003.leetcode_199;
 
-import year2022.TreeNode;
+import main.util.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
